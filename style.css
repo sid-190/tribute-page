@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(148, 235, 235);
+}
+
+h1{
+    text-align: center;
+    background: black;
+    color: white;
+    margin: auto;
+}
+
+h3{
+    text-align: center;
+}
+
+.class1{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    background: rgb(3, 111, 111);
+    border: solid;
+    outline: black;
+    border-color: black;
+    border-radius: 10px;
+}
+
+#wiki{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+    background: black;
+    color: white;
+    margin: auto;
+}
+
+
+    
